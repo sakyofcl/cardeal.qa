@@ -16,7 +16,7 @@ class CorsMiddlware
     public function handle($request, Closure $next)
     {
         return $next($request)
-        ->header('Access-Control-Allow-Origin','https://admin.topcardeals.lk')
+        ->header('Access-Control-Allow-Origin','https://admin.cardeals.qa')
         ->header('Access-Control-Allow-Methods','POST,GET')
         ->header('Access-Control-Allow-Headers','Accept,Authorization,Content-Type');
     }

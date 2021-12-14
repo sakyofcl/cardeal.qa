@@ -1,0 +1,119 @@
+
+/*app*/
+
+.app-shadow{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+/*------- [ car view page ] ------*/
+.car-view{
+    margin-top: 80px;
+}
+.image-slider-wrapper{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    border-radius: 10px;
+}
+
+.image-slider-wrapper .image-slider .owl-item{
+    border-radius: 0;
+    overflow: hidden;
+    position: relative;
+    height: 240px;
+}
+
+.image-slider-wrapper .image-slider .owl-item .item{
+    height: 240px;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 238, 238);
+}
+
+.image-slider-wrapper .image-slider .owl-item .item img{
+    height: 240px;
+    width: auto;
+}
+
+
+@media only screen and (min-width: 800px){
+    .image-slider-wrapper .image-slider .owl-item{
+        margin: 0;
+        height: auto;
+        min-height: 466px;
+    }
+
+    .image-slider-wrapper .image-slider .owl-item .item{
+        height:466px;
+        width:100%;
+    }
+    .image-slider-wrapper .image-slider .owl-item .item img{
+        height: 466px;
+    }
+
+}
+
+
+
+
+.image-slider-wrapper .owl-nav {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    margin-top: -27px;
+    z-index: 2;
+}
+
+.image-slider-wrapper .owl-nav .owl-prev, .image-slider-wrapper .owl-nav .owl-next {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    border-radius: 50%;
+    box-shadow: 0 0 11px rgba(33, 33, 33, .2);
+    border: 0 solid transparent;
+    background-color: #fff!important;
+    cursor: pointer;
+    z-index: 2;
+    text-align: center;
+}
+
+.image-slider-wrapper .owl-nav .owl-prev:hover, .image-slider-wrapper .owl-nav .owl-next:hover {
+    background-color: #d3d3d3!important;
+    transition: 0.3s;
+}
+
+.image-slider-wrapper .owl-nav .owl-next {
+    position: absolute;
+    right: 16px;
+}
+
+
+
+
+.car-spec{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.car-spec .list-group-item{
+    background-color: rgb(238, 238, 238);
+    
+}
+
+
+.discription-box{
+    width: 100%;
+    height:auto;
+    position: relative;
+    overflow: hidden;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(238, 238, 238);
+}
+
+.show-less{
+    height: 100px; 
+    overflow:hidden; 
+    transition: 1s;
+}
+
+

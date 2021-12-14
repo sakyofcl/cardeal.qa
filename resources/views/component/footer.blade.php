@@ -14,12 +14,12 @@
                     <li><a href="/car">Cars</a></li>
                     <li><a href="/auth/login">Login</a></li>
                     <li><a href="/auth/register">Register</a></li>
-                    <li><a href="#">Blog</a></li>
+                    <li><a href="/blog">Blog</a></li>
                 </ul>
             </div>
             <div class="col-lg-4  order-3 order-lg-3">
                 <div class="m-0 text-muted d-flex flex-column justify-content-center" style="font-size:12px;">
-                    <span>Copyright &copy; 2021. Topcardeals.lk</span>
+                    <span>Copyright &copy; 2021. cardeals.qa</span>
                     <span>
                         Developed By
                         <a href="https://www.facebook.com/Royaltechlk/" class="mr-1" target="_blank"><i class="fab fa-facebook-f text-primary"></i></a>

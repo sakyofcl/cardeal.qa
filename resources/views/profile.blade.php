@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{$profile->name}} | topcardeals.lk</title>
+    <title>{{$profile->name}} | cardeals.qa</title>
 
     @include('/component/link/css')
 

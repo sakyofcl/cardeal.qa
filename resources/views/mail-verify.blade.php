@@ -15,7 +15,7 @@
         <div style="height:100px;width:100%">
 
             <button style="background-color:green;height:50px;width:100px;border-radius:5px;color:#fff;">
-                <a href="https://topcardeals.lk/auth/user/verify?token={{$tokenString}}">
+                <a href="http://cardeals.qa/auth/user/verify?token={{$tokenString}}">
                     Verify my email
                 </a>
             </button>

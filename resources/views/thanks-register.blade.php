@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Thanks For Joining... | retail</title>
+    <title>Thanks For Joining... | cardeals.qa</title>
 
     @include('/component/link/css')
 

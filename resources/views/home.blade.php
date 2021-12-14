@@ -4,13 +4,17 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Buy Sell New Used Cars in Sri Lanka | topcardeals.lk</title>
-	<meta name="description" content="Sri Lanka&#39;s # 1 online car classifieds. topcardeels.lk, Cars for Sale, car sales, motorbikes, buy car, car parts, automobile, Car Dealers, Hybrid vehicle ikman sale. Post free ads for Toyota, Nissan, Yamaha, Hyundai, Maruti, Honda, Bajaj, Fiat &amp; other popular brands. " />
-	<meta name="keywords" content="topcardeels.lk cars,car sale, buy car, topcardeels.lkcar classified,topcardeels.lk buy car sri lanka,  topcardeels.lkvan, jeep,mitsubishi topcardeels.lkl200,dash cam,gps topcardeels.lktracker,motorcycles for topcardeels.lksale,hilux topcardeels.lkfor sale, tractors for sale,topcardeels.lk topcardeels.lk,car sale in sri lanka,bike sale in sri lanka,auto lanka" />
+	<title>Buy Sell New Used Cars in Qatar | cardeals.qa</title>
+	<meta name="title" content="Buy Sell New Used Cars in Qatar | cardeals.qa">
+	<meta name="description" content="Qatar&#39;s # 1 online car classifieds. cardeals.qa, Cars for Sale, car sales, motorbikes, buy car, car parts, automobile, Car Dealers, Hybrid vehicle ikman sale. Post free ads for Toyota, Nissan, Yamaha, Hyundai, Maruti, Honda, Bajaj, Fiat &amp; other popular brands. " />
+	<meta name="keywords" content="cardeals.qa cars,car sale, buy car, cardeals.qacar classified,cardeals.qa buy car Qatar,  cardeals.qa van, jeep,mitsubishi cardeals.qa l200,dash cam,gps cardeals.qa tracker,motorcycles for cardeals.qa sale,hilux cardeals.qa for sale, tractors for sale,cardeals.qa cardeals.qa,car sale in Qatar,bike sale in Qatar" />
 	<meta http-equiv="Cache-Control" content="no-cache" />
 	<meta http-equiv="Expires" content="Fri, Jan 01 1970 00:00:00 GMT" />
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+
+
 
 	@include('/component/link/css')
 

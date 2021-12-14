@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Blog | Top cardeals</title>
+    <title>Blog | cardeals.qa</title>
 
     @include('/component/link/css')
     <link rel="stylesheet" href="/assets/css/blog.css" />
